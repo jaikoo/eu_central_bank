@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 Gem::Specification.new do |s|
   s.name         = "eu_central_bank"
   s.version      = "0.3.0"
